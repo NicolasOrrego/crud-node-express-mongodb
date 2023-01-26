@@ -1,6 +1,6 @@
 <h3 align="center">Hola soy Nicolás 👋</h3>
 
-En este repositorio he creado una API REST que permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) de un usuario. La API está construida utilizando Node.js, Express.js y MongoDB. Además, he utilizado una estructura de carpetas MVC/MC para organizar mucho mejor el código, si quieres utilizar este repositorio te dejo abajo las intrucciones.
+En este repositorio he creado una API REST que permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) de un usuario. La API está construida utilizando Node.js, Express.js y MongoDB. Si quieres utilizar este repositorio te dejo abajo las intrucciones.
 #
 ### Cómo utilizar este repositorio: instrucciones paso a paso.
 >Paso 1: Instalación de dependencias.
